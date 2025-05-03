@@ -1,0 +1,31 @@
+/* src/css/styles.css
+
+.header-wrapper {
+    background-color: #f8f8f8;
+    padding: 10px 0;
+  }
+  
+  .internal-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .header-links-wrapper ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .header-links-wrapper li {
+    margin: 0 10px;
+  }
+  
+  .header-links-wrapper img {
+    width: 20px;
+    height: auto;
+  }
+   */
